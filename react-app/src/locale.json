@@ -1,0 +1,273 @@
+{
+    "MULTI-CURRENCY FINANCE": {
+        "ru": "МУЛЬТИВАЛЮТНЫЕ ФИНАНСЫ",
+        "es": "MULTI-MONEDA FINANZAS"
+    },
+    "Currency Converter": {
+        "ru": "Валютный Конвертер",
+        "es": "Convertidor de Divisas"
+    },
+    "Exchange Rates": {
+        "ru": "Курсы Валют",
+        "es": "Tasas de Cambio"
+    },
+    "Calculators": {
+        "ru": "Калькуляторы",
+        "es": "Calculadoras"
+    },
+    "Loan Calculator": {
+        "ru": "Кредитный Калькулятор",
+        "es": "Calculadora de Préstamo"
+    },
+    "Interest Calculator": {
+        "ru": "Депозитный Калькулятор",
+        "es": "Calculadora de Intereses"
+    },
+    "Currency Inflation": {
+        "ru": "Инфляция Валют",
+        "es": "Inflación de Divisas"
+    },
+    "Logout": {
+        "ru": "Выйти",
+        "es": "Cerrar Sesión"
+    },
+    "Multi-currency Finance": {
+        "ru": "Мультивалютные Финансы",
+        "es": "MULTI-MONEDA FINANZAS"
+    },
+    "Contact": {
+        "ru": "Контакт",
+        "es": "Contact"
+    },
+    "Main_description": {
+        "en": "Multi-currency Finance provides a personal finance web app (money manager), a currency convertor, currency exchange rates and more.",
+        "ru": "Мультивалютные Финансы предоставляют веб-приложение для личных финансов, валютный конвертер, курсы валют и многое другое.",
+        "es": "Multi-currency Finanzas ofrece una aplicación web de finanzas personales (administrador de dinero), un convertidor de divisas, tipos de cambio y más."
+    },
+    "Supported Currencies": {
+        "ru": "Поддерживаемые Валюты",
+        "es": "Monedas Soportadas"
+    },
+    "Login_title": {
+        "en": "Login",
+        "ru": "Вход",
+        "es": "Login"
+    },
+    "Login_submit": {
+        "en": "Login",
+        "ru": "Войти",
+        "es": "Iniciar Sesión"
+    },
+    "Email": {
+        "ru": "Email",
+        "es": "Email"
+    },
+    "Password": {
+        "ru": "Пароль",
+        "es": "Contraseña"
+    },
+    "Register_title": {
+        "en": "Register",
+        "ru": "Регистрация",
+        "es": "Registro"
+    },
+    "Register_submit": {
+        "en": "Register",
+        "ru": "Зарегистрироваться",
+        "es": "Registrar"
+    },
+    "Try without registration": {
+        "ru": "Попробовать без регистрации",
+        "es": "Probar Sin Registro"
+    },
+    "Forgot your password?": {
+        "ru": "Забыли свой пароль?",
+        "es": "Olvidaste tu contraseña?"
+    },
+    "Confirm Password": {
+        "ru": "Подтвердите пароль",
+        "es": "Confirmar Contraseña"
+    },
+    "Please, retype your password": {
+        "ru": "Пожалуйста, введите свой пароль повторно",
+        "es": "Por favor, vuelva a escribir la contraseña"
+    },
+    "Please, enter your ": {
+        "ru": "Пожалуйста, введите свой ",
+        "es": "Por favor, ingrese su "
+    },
+    "Email must be at least 3 characters": {
+        "ru": "Email должен состоять, как минимум, из 3 символов",
+        "es": "Email debe ser al menos 3 carácteres"
+    },
+    "Email must contain '@' character": {
+        "ru": "Email должен содержать символ '@'",
+        "es": "Email debe contener el carácter '@'"
+    },
+    "Password must be at least 6 characters": {
+        "ru": "Пароль должен состоять, как минимум, из 6 символов",
+        "es": "Contraseña debe ser al menos 6 carácteres"
+    },
+    "Password must contain digits and letters": {
+        "ru": "Пароль должен состоять из цифр и букв",
+        "es": "Contraseña debe contener dígitos y letras"
+    },
+    "Password must differ from your email": {
+        "ru": "Пароль должен отличаться от вашего email",
+        "es": "Contraseña debe diferir de su email"
+    },
+    "Your passwords do not match": {
+        "ru": "Ваши пароли не совпадают",
+        "es": "Tus contraseñas no coinciden"
+    },
+    "Currency": {
+        "ru": "Валюта",
+        "es": "Moneda"
+    },
+    "Amount": {
+        "ru": "Сумма",
+        "es": "Cantidad"
+    },
+    "Term in Years": {
+        "ru": "Срок (Количество лет)",
+        "es": "Plazo en Años"
+    },
+    "Annual Rate (%)": {
+        "ru": "Годовая Проц. Ставка (%)",
+        "es": "Tarifa Anual"
+    },
+    "End Balance": {
+        "ru": "Сумма на Конец Срока",
+        "es": "Saldo Final"
+    },
+    "Total Interest": {
+        "ru": "Доходность",
+        "es": "Interés Total"
+    },
+    "Amortized Loan Calculator": {
+        "ru": "Амортизированный Кредитный Калькулятор",
+        "es": "Calculadora de Préstamo"
+    },
+    "Monthly Payment": {
+        "ru": "Ежемесячный Платеж",
+        "es": "Mensualidad"
+    },
+    "Total Payments": {
+        "ru": "Сумма Выплат",
+        "es": "Pagos Totales"
+    },
+    "Total_Interest_loan": {
+        "en": "Total Interest",
+        "ru": "Переплата по Кредиту",
+        "es": "Interés Total"
+    },
+    "Loan Amount": {
+        "ru": "Сумма Кредита",
+        "es": "Monto del Préstamo"
+    },
+    "Loan Term in Years": {
+        "ru": "Срок (Количество лет)",
+        "es": "Plazo del Préstamo en Años"
+    },
+    "Results": {
+        "ru": "Результаты",
+        "es": "Resultados"
+    },
+    "Year": {
+        "ru": "Год",
+        "es": "Año"
+    },
+    "Inflation Rate (%)": {
+        "ru": "Инфляция (%)",
+        "es": "Tasa de Inflación"
+    },
+    "Language": {
+        "ru": "Язык",
+        "es": "Idioma"
+    },
+    "Reset Password": {
+        "ru": "Сброс Пароля",
+        "es": "Restablecer la Contraseña"
+    },
+    "Next": {
+        "ru": "Далее",
+        "es": "Próxima"
+    },
+    "Confirm": {
+        "ru": "Принять",
+        "es": "Confirmar"
+    },
+    "We have sent you a verification code. Please, check spam/junk.": {
+        "ru": "Мы отправили Вам код верификации. Пожалуйста, проверьте спам/мусор.",
+        "es": "Te hemos enviado un código de verificación. Por favor, verifique el correo no deseado / basura."
+    },
+    "Balance": {
+        "ru": "Баланс",
+        "es": "Equilibrar"
+    },
+    "Total": {
+        "ru": "Всего",
+        "es": "Total"
+    },
+    "Edit": {
+        "ru": "Редак.",
+        "es": "Editar"
+    },
+    "Delete": {
+        "ru": "Удалить",
+        "es": "Eliminar"
+    },
+    "Apply": {
+        "ru": "Принять",
+        "es": "Aplicar"
+    },
+    "Cancel": {
+        "ru": "Отмена",
+        "es": "Cancelar"
+    },
+    "Add": {
+        "ru": "Создать",
+        "es": "Añadir"
+    },
+    "Code": {
+        "ru": "Код",
+        "es": "Código"
+    },
+    "Currency_Converter_description": {
+        "en": "Currency Converter. Convert money to USD (U.S. dollar), EUR (Euro), JPY (Japanese yen), GBP (Pound sterling), CAD (Canadian dollar), AUD (Australian dollar) and other currencies.",
+        "ru": "Валютный Конвертор. Конвертировать деньги в USD (доллар США), EUR (Евро), JPY (Японская иена), GBP (Фунт стерлингов), CAD (Канадский доллар), AUD (Австралийский доллар) и другие валюты.",
+        "es": "Convertidor de Divisas"
+    },
+    "Currency_Inflation_description": {
+        "en": "Currency Inflation. Historical inflation rates by year: USD (U.S. dollar), EUR (Euro), JPY (Japanese yen), GBP (Pound sterling), CAD (Canadian dollar), AUD (Australian dollar) and other currencies.",
+        "ru": "Инфляция Валют. История инфляции по годам: USD (доллар США), EUR (Евро), JPY (Японская иена), GBP (Фунт стерлингов), CAD (Канадский доллар), AUD (Австралийский доллар) и другие валюты.",
+        "es": "Inflación de Divisas"
+    },
+    "Exchange_Rates_description": {
+        "en": "Currency Exchange Rates. Actual rates: EUR/USD (Euro to U.S. dollar), JPY/USD (Japanese yen to U.S. dollar), GBP/USD (Pound sterling to U.S. dollar), CAD/USD (Canadian dollar to U.S. dollar), AUD/USD (Australian dollar to U.S. dollar) and more.",
+        "ru": "Обменные Курсы Валют. Актуальные курсы: EUR/USD (Евро на доллар США), JPY/USD (Японская иена на доллар США), GBP/USD (Фунт стерлингов на доллар США), CAD/USD (Канадский доллар на доллар США), AUD/USD (Австралийский доллар на доллар США) и другие.",
+        "es": "Tasas de Cambio"
+    },
+    "Interest_Calculator_description": {
+        "en": "Interest Calculator. Calculate an end balance and total interest for a savings account, bank account, deposit, investment.",
+        "ru": "Депозитный Калькулятор. Сосчитать сумму на конец срока и доход для сберегательного счета, банковского счета, депозита, инвестиции.",
+        "es": "Calculadora de Intereses"
+    },
+    "Loan_Calculator_description": {
+        "en": "Amortized Loan Calculator. Calculate a monthly payment, total interest and total payment for a personal loan, car (auto) loan, mortgage, credit.",
+        "ru": "Амортизированный Кредитный Калькулятор. Сосчитать сумму месячного платежа, переплату и сумму выплат для потребительского кредита, авто-кредита, ипотеки, займа.",
+        "es": "Calculadora de Préstamo"
+    },
+    "Rate": {
+        "ru": "Курс",
+        "es": "Tarifa"
+    },
+    "Currency Pair": {
+        "ru": "Валютная Пара",
+        "es": "Par de Divisas"
+    },
+    "Name": {
+        "ru": "Имя",
+        "es": "Nombre"
+    }
+}
